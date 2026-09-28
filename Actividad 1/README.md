@@ -123,7 +123,7 @@ Los tres puntos usados en esta práctica:
 
 ## Evidencia
 
-![Simulación de drones en PyBullet](./docs/capturas/simulacion_drones.png)
+[Ver video de la simulación](./docs/capturas/Control de dron por ESP32.mp4)
 
 ## Repositorio de referencia
 
